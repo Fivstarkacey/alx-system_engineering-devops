@@ -1,0 +1,3 @@
+#!/bin/bash
+chown betty hello
+echo "The owner of hello has been changed to betty."
