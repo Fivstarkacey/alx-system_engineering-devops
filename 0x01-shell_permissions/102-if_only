@@ -1,0 +1,2 @@
+#!/bin/sh
+chown --from=guillaume betty hello
