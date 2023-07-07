@@ -1,2 +1,2 @@
 #!/bin/sh
-current_dir="./"
+chmod -R +X .
