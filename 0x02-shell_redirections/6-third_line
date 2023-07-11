@@ -1,0 +1,2 @@
+#!/bin/sh
+echo awk "NR==3"  "iacta"
